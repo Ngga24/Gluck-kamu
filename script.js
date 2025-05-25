@@ -1,7 +1,7 @@
 const messages = [
-  "Good luck ya buat pertandingannya... 🏀",
-  "Aku tahu kamu pasti bisa. ✨",
-  "Semoga hasil terbaik yang kamu dapat. 🍀",
+  "Aku tahu hari ini mungkin nggak berjalan sesuai harapan kamu,",
+  "Istirahat dulu, tarik napas pelan-pelan. ✨",
+  "Besok pasti akan lebih baik, aku yakin kamu bisa lewatin ini. 🍀",
 ];
 
 const typingElement = document.getElementById("typing-text");
